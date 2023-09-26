@@ -1,5 +1,5 @@
 {
-  "name": "@gluestack-ui/themed",
+  "name": "@our-city/our-city-components",
   "version": "0.1.53",
   "main": "build/index.js",
   "types": "build/index.d.ts",
